@@ -1,4 +1,4 @@
-package com.rightster.automation.tools;
+package com.test.automation.tools;
 
 import javax.xml.bind.JAXBContext;
 import javax.xml.bind.JAXBException;

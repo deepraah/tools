@@ -1,4 +1,4 @@
-package com.rightster.automation.tools;
+package com.test.automation.tools;
 
 import java.util.ArrayList;
 import java.util.Arrays;
